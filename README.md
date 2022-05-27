@@ -4,7 +4,7 @@
 
 1. Notero 插件，可同步 Zotero 文献至 Notion！
 2. zotero-pdf-translate 插件，可以用于翻译文献，直接选中文献中的英文句子即可翻译
-3. 其他插件，可以到[Zotero](https://www.zotero.org/support/plugins)插件官网下载
+3. 其他插件，可以到[Zotero插件官网](https://www.zotero.org/support/plugins)下载
 ## 插件安装：
 #### 1. Download the latest version of [Zotero](https://www.zotero.org/)
 
